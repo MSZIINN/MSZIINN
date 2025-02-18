@@ -1,13 +1,5 @@
 ##    MARIANO SANTOS
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MSZIINN&show_icons=true&theme=dark"
@@ -19,10 +11,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MSZIINN&show_icons=true" />
 </picture>
-##
-<div>
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+</div>
+<img align-"center" alt-"MSZIINN-python" height-"30" width-"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />        
 </div>
 
           
