@@ -1,5 +1,4 @@
 ##    MARIANO SANTOS
- ##
 ### Formação:
 - Estudante de Sistemas de Informação 📚
 - Formado em Técnico de Manutenção de Suporte e Hardware 🎓
