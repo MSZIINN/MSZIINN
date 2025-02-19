@@ -1,7 +1,4 @@
 ##    MARIANO SANTOS
-### Interesses:
-- Desenvolvedor Front-end 💻 
-- Inteligência Artificial 🤖
  ##
 ### Formação:
 - Estudante de Sistemas de Informação 📚
