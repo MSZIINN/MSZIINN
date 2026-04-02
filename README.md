@@ -12,8 +12,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=MSZIINN&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  ##
-  <img src="https://github-readme-stats.vercel.app/api?username=MSZIINN_icons=true" />
 </picture>
 </div>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
